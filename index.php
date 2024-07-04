@@ -7,6 +7,7 @@
  */
 ?>
 
+
 <?php get_header(); ?>
 <main>
     <!-- Main content of the theme -->
