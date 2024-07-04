@@ -6,6 +6,7 @@
  * @link https://github.com/MahediZaber51/WordPress-Theme-Base-Template
  */
 
+
 function your_theme_setup() {
     // Add support for various theme features.
     add_theme_support( 'title-tag' );
