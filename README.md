@@ -43,3 +43,4 @@ This project is licensed under the GNU General Public License v2 or later - see 
 ## Links
 
 - GitHub Repository: [WordPress Theme Base Template](https://github.com/MahediZaber51/WordPress-Theme-Base-Template)
+- Website: [ZealTyro](https://www.zealtyro.com)
