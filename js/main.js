@@ -5,6 +5,7 @@
  * @link https://github.com/MahediZaber51/WordPress-Theme-Base-Template
  */
 
+
 document.addEventListener('DOMContentLoaded', function() {
     // Example of basic event handling
     const header = document.querySelector('header');
