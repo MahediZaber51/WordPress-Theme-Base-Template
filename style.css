@@ -1,0 +1,112 @@
+/*
+Theme Name: Your Theme Name
+Theme URI: http://example.com/your-theme
+Author: Your Name
+Author URI: http://example.com
+Description: A brief description of your theme.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: custom-theme, blog, responsive
+Text Domain: your-theme
+
+Note: For more information, visit the GitHub repository at:
+https://github.com/MahediZaber51/WordPress-Theme-Base-Template
+*/
+
+
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+header p {
+    margin: 0;
+    font-size: 1rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+a {
+    color: #0073aa;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #005177;
+}
+
+article {
+    margin-bottom: 2rem;
+}
+
+.post-meta {
+    margin-top: 1rem;
+    color: #777;
+    font-size: 0.9rem;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+
+.sidebar {
+    padding: 1rem;
+    background: #f4f4f4;
+    margin-bottom: 2rem;
+}
+
+.widget {
+    margin-bottom: 2rem;
+}
+
+.widget-title {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.comments-area {
+    margin-top: 2rem;
+}
+
+.comment-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.no-comments {
+    font-size: 1.1rem;
+    color: #777;
+}
